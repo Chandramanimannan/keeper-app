@@ -17,7 +17,7 @@ function handleClick(){
       color:"red",
       float:"right"
     }} />
-    </div>`
+    </div>
   );
 }
 
